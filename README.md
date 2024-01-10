@@ -1,4 +1,4 @@
-# NGinX is a proxy pull code and further used for License at ForwardThinkingLabs.
+#License at ForwardThinkingLabs
 
  
 
