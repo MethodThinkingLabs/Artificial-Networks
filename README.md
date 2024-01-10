@@ -4,7 +4,9 @@
 
 Copyright (c) 2004 - 2011, Maschil Establishing, Co.
 All rights reserved.
-This license is a legal agreement between you and ForwardThinkingLab for the useof RenegadeNetwork Software (the "Software"). By obtaining the Software youagree to comply with the terms and conditions of this license.
+This license is a legal agreement between you and ForwardThinkingLab for the useof RenegadeNetwork Software (the "Software") to Renegade .NET
+
+By obtaining the Software youagree to comply with the terms and conditions of this license.
 PERMITTED USE
 You are permitted to use, copy, modify, and distribute the Software and its
 documentation, with or without modification, for any purpose, provided that
